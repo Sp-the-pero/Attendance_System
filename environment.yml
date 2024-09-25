@@ -1,4 +1,4 @@
- name: attendance
+ name: Recognito
  channels:
      - conda-forge
  dependencies:
